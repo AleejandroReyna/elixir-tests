@@ -1,0 +1,3 @@
+:foo
+
+IO.puts(:foo)
